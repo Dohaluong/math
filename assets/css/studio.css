@@ -26,6 +26,7 @@ body.studio-body {
   display: flex;
   height: 100vh;
   overflow: hidden;
+  /* BẮt đầu sửa */
 }
 
 .studio-sidebar {
