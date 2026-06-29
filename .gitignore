@@ -1,0 +1,17 @@
+# Config chứa API key và DB credentials — KHÔNG commit
+config.php
+
+# XAMPP / môi trường local
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Upload / media do người dùng tạo ra (nếu có)
+photo/uploads/
